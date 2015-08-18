@@ -2,6 +2,10 @@ hello-world
 ===========
 
 Hello GitHub!!
-My name is Thiago, but you can call-me "Saraii" haha ...
-I have 21 years old, i'm from Brazil and here i wish make
-new friends, practice my english and build things!!
+
+My name is Thiago Saraiva, but you can call-me "Saraii".
+I have 22 years old, i'm from São Paulo - Brazil and here 
+i wish to make new friends, practice my english and build 
+cool things!!
+
+See you! :)
